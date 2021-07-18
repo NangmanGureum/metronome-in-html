@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.section_1 {
+    width: 100%;
+    height: 100vh;
+    background-color: #368830;
+}
+
+.section_2 {
+    width: 100%;
+    height: 100vh;
+    background-color: #46ad3e;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
